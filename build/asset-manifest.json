@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.570be41c.css",
+    "main.js": "/portfolio-app/static/js/main.82afc70a.js",
+    "static/js/787.30237536.chunk.js": "/portfolio-app/static/js/787.30237536.chunk.js",
+    "static/media/about.png": "/portfolio-app/static/media/about.3fcf3fc728e065d8e55f.png",
+    "static/media/Ataraxia.png": "/portfolio-app/static/media/Ataraxia.41f253a5d39b991448da.png",
+    "static/media/RSE.png": "/portfolio-app/static/media/RSE.1ee8d636709c4fb9daca.png",
+    "static/media/ecommerce.png": "/portfolio-app/static/media/ecommerce.aba0e12ee604dab5a219.png",
+    "static/media/wecyde.png": "/portfolio-app/static/media/wecyde.42bc4cad985e3bd757db.png",
+    "static/media/PP.jpg": "/portfolio-app/static/media/PP.b23a809f928832ffb9d2.jpg",
+    "static/media/insta.png": "/portfolio-app/static/media/insta.becbac02db4756c2f906.png",
+    "static/media/deliveryApp.png": "/portfolio-app/static/media/deliveryApp.99e64ee16f79808055ea.png",
+    "static/media/Armand-Cv.pdf": "/portfolio-app/static/media/Armand-Cv.dc76d4df3705f274f2d3.pdf",
+    "static/media/testimonial3.png": "/portfolio-app/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/portfolio-app/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/portfolio-app/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.570be41c.css.map": "/portfolio-app/static/css/main.570be41c.css.map",
+    "main.82afc70a.js.map": "/portfolio-app/static/js/main.82afc70a.js.map",
+    "787.30237536.chunk.js.map": "/portfolio-app/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570be41c.css",
+    "static/js/main.82afc70a.js"
+  ]
+}
